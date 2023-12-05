@@ -1,7 +1,8 @@
 # Man I Love Fishing
 
-![Logo](https://github.com/leevayy/man-i-love-fishing/assets/86363699/31ae8325-7657-4cc8-a835-7ecf2193f80d)
-![throwingAHook2](https://github.com/leevayy/man-i-love-fishing/assets/86363699/65813ede-9233-4cf3-9140-1519be60263f)
+<img width="160" alt="image" src="https://github.com/leevayy/man-i-love-fishing/assets/86363699/31ae8325-7657-4cc8-a835-7ecf2193f80d">
+<img width="160" alt="image" src="https://github.com/leevayy/man-i-love-fishing/assets/86363699/65813ede-9233-4cf3-9140-1519be60263f">
+
 
 ## Лендос игры. Тут можно скачать на андроид
 [leevayy.itch.io/milfishing](https://leevayy.itch.io/milfishing)
